@@ -41,14 +41,14 @@ Screenshots of the app:
    git clone https://github.com/AhmedZeyad/cyphermaster.git
     ```
 2. Navigate to the project folder:
-```
-    cd cyphermaster
-```
+   ```
+   cd cyphermaster
+   ```
 3. Install dependencies:
-```bash
+   ```bash
     flutter pub get
     ```
 4. Run the app:
-```bash
+   ```bash
     flutter run
-```
+   ```
