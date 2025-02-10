@@ -1,17 +1,54 @@
-git merge InitialApp
-# cyphermaster
 
-A new Flutter project.
+## Description  
+Cypher Master is a simple app designed for encoding and decoding text. It was created to help students at my university check their answers. I developed the app with the help of my friends, who contributed by designing the UI and preparing the encryption and decryption algorithms.  
 
-## Getting Started
+## Supported Algorithms  
+- Vigenère  
+- Rail Fence  
+- Affine  
+- Caesar  
 
-This project is a starting point for a Flutter application.
+## Preview  
+Screenshots of the app:  
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Simulator Screenshot - iPhone 16 Pro Max - 2025-02-09 at 08 26 29](https://github.com/user-attachments/assets/20ed4040-d8c2-44a7-9d96-5494159c3d66)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+!![Simulator Screenshot - iPhone 16 Pro Max - 2025-02-09 at 08 26 34](https://github.com/user-attachments/assets/135eb21a-97c8-4f94-97a5-1ce29ff11ec6)
+
+![Simulator Screenshot - iPhone 16 Pro Max - 2025-02-09 at 08 26 57](https://github.com/user-attachments/assets/93987584-feed-4594-85a5-f71e8bde9af3)
+
+
+![Simulator Screenshot - iPhone 16 Pro Max - 2025-02-09 at 08 28 24](https://github.com/user-attachments/assets/b6631884-a66c-42b9-b59f-50be948d94d9)
+
+
+![Simulator Screenshot - iPhone 16 Pro Max - 2025-02-09 at 08 28 55](https://github.com/user-attachments/assets/145a8911-1174-4aa7-a039-1ce671c68dd7)
+
+## Installation  
+
+### Prerequisites  
+- Flutter SDK (version 3.27.1)  
+- Dart SDK (version 2.11.0)  
+
+### Supported Platforms  
+- Android  
+- iOS  
+
+### Setup  
+
+1. **Clone the repository:**  
+   ```bash
+   git clone https://github.com/AhmedZeyad/cyphermaster.git
+    ```
+2. Navigate to the project folder:
+```
+    cd cyphermaster
+```
+3. Install dependencies:
+```bash
+    flutter pub get
+    ```
+4. Run the app:
+```bash
+    flutter run
+```
